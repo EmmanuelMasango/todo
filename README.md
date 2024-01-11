@@ -1,5 +1,5 @@
 # todo
-todo is Django project creates a simple to do list 
+todo is Django project that creates a simple to do list 
 
 ## Table of Contents
 
