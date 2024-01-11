@@ -1,4 +1,4 @@
-# dreamrealm
+# todo
 todo is Django project creates a simple to do list 
 
 ## Table of Contents
@@ -18,7 +18,7 @@ todo is Django project creates a simple to do list
 #### Using Venv(Optional)
 1. **Clone the Repository:**
    ```In bash
-   git clone https://github.com/EmmanuelMasango/dreamrealm.git
+   git clone https://github.com/EmmanuelMasango/todo.git
 
    cd dreamrealm
    virtualenv venv
